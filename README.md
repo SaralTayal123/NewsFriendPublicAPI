@@ -13,5 +13,5 @@ key = "<Enter Your key here, keep the quotes>"
 endpoint = "https://<Your endpoint name>.cognitiveservices.azure.com/"
 ```
 
-api docs: https://newsfriend.herokuapp.com/docs
-test: https://newsfriend.herokuapp.com/ping/https:%7C%7Cwww.bbc.com%7Cnews%7Cworld-europe-53832981
+- api docs: https://newsfriend.herokuapp.com/docs 
+- test: https://newsfriend.herokuapp.com/ping/https:%7C%7Cwww.bbc.com%7Cnews%7Cworld-europe-53832981
